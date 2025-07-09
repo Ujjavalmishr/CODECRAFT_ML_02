@@ -53,7 +53,7 @@ CODECRAFT_ML_02/
 
 ```bash
 git clone https://github.com/Ujjavalmishr/CODECRAFT_ML_02.git
-cd CodeCraft_ML_01
+cd CODECRAFT_ML_02
 
 2. Install dependencies
 All dependencies are listed in requirements.txt:
