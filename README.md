@@ -74,7 +74,7 @@ pip install -r requirements.txt
 bash
 Copy code
 streamlit run app.py
-Visit: http://localhost:8501
+Visit: http://localhost:0000
 
 4.Uplaod .csv file and click on Run Clustering
  After clicking “Run Clustering”
@@ -96,3 +96,5 @@ Model File: model/kmeans_model.pkl
 Ujjaval Mishra
 BTECH CSE(AI) 
 ABES Institue Of Technology, Ghaziabad
+📧 ujjavalmishra439@gmail.com
+🌐 https://github.com/Ujjavalmishr
